@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @iaa2005
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-iaa2005/iaa2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋  Hi, I’m @iaa2005 - Ivanov Alexandr
+- 👀  I’m interested in programming, GameDev, UI design, creating websites and apps on Flutter.
+- 🌱  I’m currently learning Python 3.8, Rust, C++, JS and Go
+- 📫  How to reach me: marsee3015@gmail.com
