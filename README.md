@@ -5,4 +5,4 @@
 - 📫 &nbsp;How to reach me: marsee3015@gmail.com
 
 # Investing is also important thing
-<iframe title="Состав портфеля перфекциониста" aria-label="Bar Chart" id="datawrapper-chart-CHovX" src="https://datawrapper.dwcdn.net/CHovX/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="398"></iframe>
+<iframe title="The composition of the perfectionist's portfolio" aria-label="Bar Chart" id="datawrapper-chart-CHovX" src="https://datawrapper.dwcdn.net/CHovX/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="398"></iframe>
