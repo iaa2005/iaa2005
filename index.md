@@ -1,6 +1,3 @@
----
-title-heading: false
----
 <img src="/IAA_Logo.jpeg" alt="iaa2005 Logo" width="200">
 # IAA2005
 # About me
