@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 <img src="/IAA_Logo.jpeg" alt="iaa2005 Logo" width="200">
 
 # About me
