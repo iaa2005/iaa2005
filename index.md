@@ -1,5 +1,5 @@
 <img src="/IAA_Logo.jpeg" alt="iaa2005 Logo" width="200">
-# IAA2005
+
 # About me
 - 👋 &nbsp;Hi, I’m @iaa2005 - Ivanov Alexandr
 - 👀 &nbsp;I’m interested in programming, GameDev, UI design, creating websites and apps on Flutter
