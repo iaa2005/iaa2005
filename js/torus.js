@@ -1,6 +1,7 @@
 // import * as THREE from 'three'
 
 let scene = new THREE.Scene();
+scene.background = new THREE.Color(0x262626)
 
 let spotLight = new THREE.SpotLight(0xeeeece)
 spotLight.position.set(1000, 1000, 1000)
@@ -24,6 +25,7 @@ let torusKnot = new THREE.Mesh(geometry, materialRGB)
 scene.add(torusKnot)
 
 camera.position.z = 45
+camera.position.y = 4
 
 
 function render() {
