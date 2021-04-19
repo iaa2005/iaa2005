@@ -40,4 +40,7 @@ li {
 a {
     color: #70b3ff
 }
+.markdown-body img {
+    background-color: #fff0;
+}
 </style>
