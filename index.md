@@ -16,5 +16,13 @@ description: Official website of iaa2005
 - [MathUs](https://mathus.ru/phys/index.php#var)
 
 ## Файлы
+- [Механика физтех](https://iaa2005.tk/files/Механика%20физтех.pdf)
 - [Савченко 2008г.](https://iaa2005.tk/files/Savchenko_2008.pdf)
+- [Соскальзывание со сферы](https://iaa2005.tk/files/Соскальзывание%20со%20сферы.pdf)
 - [Столкновения](https://iaa2005.tk/files/Столкновения.zip)
+- [Трение, импульс](https://iaa2005.tk/files/Трение%20импульс.pdf)
+- [Удары](https://iaa2005.tk/files/Удары.pdf)
+- [Удары 2](https://iaa2005.tk/files/Удары%20еще.pdf)
+- [Фтл 2021 04.02.21](https://iaa2005.tk/files/Фтл-2021-04.02.21.pdf)
+- [Фтл 2021 05.02.21 (1)](https://iaa2005.tk/files/Фтл-2021-05.02.21.pdf)
+- [Фтл 2021 05.02.21 (2)](https://iaa2005.tk/files/Фтл-2021-05.02.21-2.pdf)
