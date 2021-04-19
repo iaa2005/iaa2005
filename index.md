@@ -26,3 +26,18 @@ description: Official website of iaa2005
 - [Фтл 2021 04.02.21](https://iaa2005.tk/files/Фтл-2021-04.02.21.pdf)
 - [Фтл 2021 05.02.21 (1)](https://iaa2005.tk/files/Фтл-2021-05.02.21.pdf)
 - [Фтл 2021 05.02.21 (2)](https://iaa2005.tk/files/Фтл-2021-05.02.21-2.pdf)
+
+<style>
+body {
+    background-color: currentColor;
+}
+h2, h1, h3 {
+    color: #fff
+}
+li {
+    color: #fff
+}
+a {
+    color: #70b3ff
+}
+</style>
