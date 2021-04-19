@@ -11,5 +11,10 @@ description: Official website of iaa2005
 - 📫 &nbsp;How to reach me: [marsee3015@gmail.com](mailto:marsee3015@gmail.com)
 
 # Физика
+## Ссылки
+- [Физтех Регионам](https://os.mipt.ru/#/)
+- [MathUs](https://mathus.ru/phys/index.php#var)
+
 ## Файлы
+- [Савченко 2008г.](https://iaa2005.tk/files/Savchenko_2008.pdf)
 - [Столкновения](https://iaa2005.tk/files/Столкновения.zip)
