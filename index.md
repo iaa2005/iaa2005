@@ -1,5 +1,7 @@
-<title>iaa2005</title>
-![iaa2005 logo](/assets/IAA_Logo.jpeg | width=200)
+---
+title: iaa2005
+---
+<img src="/assets/IAA_Logo.jpeg" width="200" alt="iaa2005 logo"/>
 # Физика
 ## Файлы
 [Столкновения](https://iaa2005.tk/files/Столкновения.zip)
