@@ -29,7 +29,7 @@ description: Official website of iaa2005
 
 <style>
 body {
-    background-color: currentColor;
+    background-color: #1e2023;
 }
 h2, h1, h3 {
     color: #fff
