@@ -1,3 +1,4 @@
+<title>iaa2005</title>
 ![iaa2005 logo](/assets/IAA_Logo.jpeg | width=200)
 # Физика
 ## Файлы
