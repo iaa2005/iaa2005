@@ -8,7 +8,7 @@ description: Official website of iaa2005
 - 👋 &nbsp;Hi, I’m @iaa2005 - Ivanov Alexandr
 - 👀 &nbsp;I’m interested in programming, GameDev, UI design, creating websites and apps on Flutter. Also I’m interested in Physics and Maths.
 - 🌱 &nbsp;I’m currently learning Python 3.8, Rust, C++, JS and Go
-- 📫 &nbsp;How to reach me: marsee3015@gmail.com
+- 📫 &nbsp;How to reach me: [marsee3015@gmail.com](mailto:marsee3015@gmail.com)
 
 # Физика
 ## Файлы
