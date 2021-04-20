@@ -84,9 +84,9 @@ a {
     margin-left: 2px;
     opacity: 0.9;
 }
-li::marker {
+/* li::marker {
     color: #aa96e6;
-}
+} */
 /* h1, h2 {
     animation: flow 10s ease-in-out infinite;
     background: linear-gradient(90deg, #fff38a, #c3ff8a, #8affcc, #8ab3ff);
