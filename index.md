@@ -66,7 +66,7 @@ a {
     padding-bottom: 7px;
     border-radius: 15px;
     width: fit-content;
-    padding-right: 15px;
+    /* padding-right: 15px; */
 }
 .markdown-body a:not([href]) {
     color: unset;
