@@ -1,5 +1,5 @@
 ---
-title: Official website of iaa2005
+title: iaa2005
 description: Official website of iaa2005
 title-heading: false
 ---
