@@ -1,5 +1,5 @@
 ---
-title: iaa2005
+title: null
 description: Official website of iaa2005
 ---
 <img src="/assets/IAA.png" width="200" alt="iaa2005 logo" style="margin-left: auto; margin-right: auto; display: block; border-style: none; padding-top: 20px; padding-bottom: 20px;"/>
