@@ -52,6 +52,10 @@ a {
 .markdown-body h2 {
     border-bottom: 1px solid #545454;
 }
+.markdown-body a:not([href]) {
+    color: none;
+    text-decoration: none;
+}
 .pdf {
     color: #ea4b4b;
     font-size: 14px;
