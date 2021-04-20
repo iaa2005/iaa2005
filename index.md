@@ -14,21 +14,21 @@ description: Official website of iaa2005
 ## Ссылки
 - [Физтех Регионам](https://os.mipt.ru/#/)
 - [MathUs](https://mathus.ru/phys/index.php#var)
-- [Савченко 2008г.](https://iaa2005.tk/files/Savchenko_2008.pdf)<a class="pdf"> PDF</a>
+- [Савченко 2008г.](https://iaa2005.tk/files/Savchenko_2008.pdf)<text class="pdf"> PDF</text>
 
 ## Файлы
-- [Механика физтех](https://iaa2005.tk/files/Механика%20физтех.pdf)<a class="pdf"> PDF</a>
-- [Соскальзывание со сферы](https://iaa2005.tk/files/Соскальзывание%20со%20сферы.pdf)<a class="pdf"> PDF</a>
-- [Столкновения](https://iaa2005.tk/files/Столкновения.zip)<a class="zip"> ZIP</a>
-- [Трение, импульс](https://iaa2005.tk/files/Трение%20импульс.pdf)<a class="pdf"> PDF</a>
-- [Удары](https://iaa2005.tk/files/Удары.pdf)<a class="pdf"> PDF</a>
-- [Удары 2](https://iaa2005.tk/files/Удары%20еще.pdf)<a class="pdf"> PDF</a>
-- [Фтл 2021 04.02.21](https://iaa2005.tk/files/Фтл-2021-04.02.21.pdf)<a class="pdf"> PDF</a>
-- [Фтл 2021 05.02.21 (1)](https://iaa2005.tk/files/Фтл-2021-05.02.21.pdf)<a class="pdf"> PDF</a>
-- [Фтл 2021 05.02.21 (2)](https://iaa2005.tk/files/Фтл-2021-05.02.21-2.pdf)<a class="pdf"> PDF</a>
-- [Физика в 10 класс](https://iaa2005.tk/files/10%20-%20Физика.pdf)<a class="pdf"> PDF</a>
-- [Физика в 10 класс (2)](https://iaa2005.tk/files/Физика%20в%2010%20класс%20(задачи).pdf)<a class="pdf"> PDF</a>
-- [Статика задачи с решением Губкин](https://iaa2005.tk/files/STATICS%20задачи%20с%20решением%20Губкин.pdf)<a class="pdf"> PDF</a>
+- [Механика физтех](https://iaa2005.tk/files/Механика%20физтех.pdf)<text class="pdf"> PDF</text>
+- [Соскальзывание со сферы](https://iaa2005.tk/files/Соскальзывание%20со%20сферы.pdf)<text class="pdf"> PDF</text>
+- [Столкновения](https://iaa2005.tk/files/Столкновения.zip)<text class="zip"> ZIP</text>
+- [Трение, импульс](https://iaa2005.tk/files/Трение%20импульс.pdf)<text class="pdf"> PDF</text>
+- [Удары](https://iaa2005.tk/files/Удары.pdf)<text class="pdf"> PDF</text>
+- [Удары 2](https://iaa2005.tk/files/Удары%20еще.pdf)<text class="pdf"> PDF</text>
+- [Фтл 2021 04.02.21](https://iaa2005.tk/files/Фтл-2021-04.02.21.pdf)<text class="pdf"> PDF</text>
+- [Фтл 2021 05.02.21 (1)](https://iaa2005.tk/files/Фтл-2021-05.02.21.pdf)<text class="pdf"> PDF</text>
+- [Фтл 2021 05.02.21 (2)](https://iaa2005.tk/files/Фтл-2021-05.02.21-2.pdf)<text class="pdf"> PDF</text>
+- [Физика в 10 класс](https://iaa2005.tk/files/10%20-%20Физика.pdf)<text class="pdf"> PDF</text>
+- [Физика в 10 класс (2)](https://iaa2005.tk/files/Физика%20в%2010%20класс%20(задачи).pdf)<text class="pdf"> PDF</text>
+- [Статика задачи с решением Губкин](https://iaa2005.tk/files/STATICS%20задачи%20с%20решением%20Губкин.pdf)<text class="pdf"> PDF</text>
 
 <style>
 body {
