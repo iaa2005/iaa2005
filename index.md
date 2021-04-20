@@ -51,7 +51,7 @@ a {
 .markdown-body h2 {
     border-bottom: 1px solid #545454;
 }
-h1 {
+h1, h2 {
     animation: flow 10s ease-in-out infinite;
     background: linear-gradient(-60deg, #ffffde, #f2ffde, #deffef, #def8ff);
     background-size: 300%;
