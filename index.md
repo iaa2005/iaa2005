@@ -28,6 +28,7 @@ description: Official website of iaa2005
 - [Фтл 2021 05.02.21 (2)](https://iaa2005.tk/files/Фтл-2021-05.02.21-2.pdf)
 - [Физика в 10 класс](https://iaa2005.tk/files/10%20-%20Физика.pdf)
 - [Физика в 10 класс (2)](https://iaa2005.tk/files/Физика%20в%2010%20класс%20(задачи).pdf)
+- [Статика задачи с решением Губкин](https://iaa2005.tk/files/STATICS%20задачи%20с%20решением%20Губкин.pdf)<a style="color: red;">PDF</a>
 
 <style>
 body {
