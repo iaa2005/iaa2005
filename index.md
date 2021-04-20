@@ -26,10 +26,12 @@ description: Official website of iaa2005
 - [Фтл 2021 04.02.21](https://iaa2005.tk/files/Фтл-2021-04.02.21.pdf)
 - [Фтл 2021 05.02.21 (1)](https://iaa2005.tk/files/Фтл-2021-05.02.21.pdf)
 - [Фтл 2021 05.02.21 (2)](https://iaa2005.tk/files/Фтл-2021-05.02.21-2.pdf)
+- [Физика в 10 класс](https://iaa2005.tk/files/10%20-%20Физика.pdf)
+- [Физика в 10 класс (2)](https://iaa2005.tk/files/Физика%20в%2010%20класс%20(задачи).pdf)
 
 <style>
 body {
-    background-color: #1e2023;
+    background-color: #262626;
 }
 h2, h1, h3 {
     color: #fff
