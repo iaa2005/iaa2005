@@ -53,7 +53,7 @@ a {
 }
 h1, h2 {
     animation: flow 10s ease-in-out infinite;
-    background: linear-gradient(-60deg, #ffffde, #f2ffde, #deffef, #def8ff);
+    background: linear-gradient(-60deg, #fff38a, #c3ff8a, #8affcc, #8ab3ff);
     background-size: 300%;
     -webkit-background-clip: text;
     background-clip: text;
