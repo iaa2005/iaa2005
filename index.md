@@ -30,7 +30,7 @@ description: Official website of iaa2005
 - [Физика в 10 класс (2)](https://iaa2005.tk/files/Физика%20в%2010%20класс%20(задачи).pdf)
 
 <style>
-/* body {
+body {
     background-color: #1c1c1c;
 }
 h1, h2, h3 {
@@ -50,7 +50,7 @@ a {
 }
 .markdown-body h2 {
     border-bottom: 1px solid #545454;
-} */
+}
 h1, h2 {
     animation: flow 10s ease-in-out infinite;
     background: linear-gradient(90deg, #fff38a, #c3ff8a, #8affcc, #8ab3ff);
