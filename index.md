@@ -1,5 +1,5 @@
 ---
-title: null
+title: iaa2005
 description: Official website of iaa2005
 ---
 <img src="/assets/IAA.png" width="200" alt="iaa2005 logo" style="margin-left: auto; margin-right: auto; display: block; border-style: none; padding-top: 20px; padding-bottom: 20px;"/>
@@ -33,6 +33,9 @@ description: Official website of iaa2005
 <style>
 body {
     background-color: #1c1c1c;
+}
+header {
+    display: none;
 }
 h1, h2, h3 {
     color: #aa96e6;
