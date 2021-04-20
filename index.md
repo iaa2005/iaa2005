@@ -1,7 +1,6 @@
 ---
 title: Official website of iaa2005
 description: Official website of iaa2005
-header: null
 ---
 <img src="/assets/IAA.png" width="200" alt="iaa2005 logo" style="margin-left: auto; margin-right: auto; display: block; border-style: none; padding-top: 20px; padding-bottom: 20px;"/>
 
@@ -85,7 +84,7 @@ a {
     margin-left: 2px;
     opacity: 0.9;
 }
-li::marker {
+/* h1, h2 {
     animation: flow 10s ease-in-out infinite;
     background: linear-gradient(90deg, #fff38a, #c3ff8a, #8affcc, #8ab3ff);
     background-size: 300%;
@@ -97,5 +96,5 @@ li::marker {
     0% { background-position: 0 50%; }
     50% { background-position: 100% 50%; }
     100% { background position: 0 50%; }
-}
+} */
 </style>
