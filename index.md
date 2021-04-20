@@ -34,9 +34,6 @@ description: Official website of iaa2005
 body {
     background-color: #1c1c1c;
 }
-header {
-    display: none;
-}
 h1, h2, h3 {
     color: #aa96e6;
 }
@@ -87,10 +84,7 @@ a {
     margin-left: 2px;
     opacity: 0.9;
 }
-/* li::marker {
-    color: #aa96e6;
-} */
-/* h1, h2 {
+li::marker {
     animation: flow 10s ease-in-out infinite;
     background: linear-gradient(90deg, #fff38a, #c3ff8a, #8affcc, #8ab3ff);
     background-size: 300%;
@@ -102,5 +96,5 @@ a {
     0% { background-position: 0 50%; }
     50% { background-position: 100% 50%; }
     100% { background position: 0 50%; }
-} */
+}
 </style>
