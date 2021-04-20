@@ -31,7 +31,7 @@ description: Official website of iaa2005
 
 <style>
 body {
-    background-color: #262626;
+    background-color: #1c1c1c;
 }
 h2, h1, h3 {
     color: #fff
