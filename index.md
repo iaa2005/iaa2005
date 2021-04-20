@@ -58,13 +58,18 @@ a {
 }
 .pdf {
     color: #ea4b4b;
-    font-size: 14px;
+    font-size: 12px;
+    margin-left: 2px;
     opacity: 0.9;
 }
 .zip {
     color: #eac54b;
-    font-size: 14px;
+    font-size: 12px;
+    margin-left: 2px;
     opacity: 0.9;
+}
+li::marker {
+    color: #aa96e6;
 }
 /* h1, h2 {
     animation: flow 10s ease-in-out infinite;
