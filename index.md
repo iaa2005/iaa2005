@@ -53,7 +53,7 @@ a {
     border-bottom: 1px solid #545454;
 }
 .markdown-body a:not([href]) {
-    color: none;
+    color: unset;
     text-decoration: none;
 }
 .pdf {
