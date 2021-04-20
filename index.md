@@ -33,7 +33,7 @@ description: Official website of iaa2005
 body {
     background-color: #1c1c1c;
 }
-h2, h1, h3 {
+h2, h3 {
     color: #fff
 }
 li {
@@ -44,5 +44,25 @@ a {
 }
 .markdown-body img {
     background-color: #fff0;
+}
+.markdown-body h1, h2, h3 {
+    border-bottom: 1px solid #545454;
+}
+h1 {
+  background: linear-gradient(to right, #FFF 20%, #FF0 40%, #FF0 60%, #FFF 80%);
+  background-size: 200% auto;
+  
+  color: #000;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  animation: shine 1s linear infinite;
+  @keyframes shine {
+    to {
+      background-position: 200% center;
+    }
+  }
 }
 </style>
