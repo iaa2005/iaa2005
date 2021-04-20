@@ -52,8 +52,8 @@ a {
     border-bottom: 1px solid #545454;
 }
 h1 {
-    animation: flow 30s ease-in-out infinite;
-    background: linear-gradient(-60deg, #904e95, #904e95, #e73c7e, #ee7752);
+    animation: flow 10s ease-in-out infinite;
+    background: linear-gradient(-60deg, #ffffde, #f2ffde, #deffef, #def8ff);
     background-size: 300%;
     -webkit-background-clip: text;
     background-clip: text;
