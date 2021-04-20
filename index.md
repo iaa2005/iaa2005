@@ -45,7 +45,10 @@ a {
 .markdown-body img {
     background-color: #fff0;
 }
-.markdown-body h1, h2, h3 {
+.markdown-body h1 {
+    border-bottom: 1px solid #545454;
+}
+.markdown-body h2 {
     border-bottom: 1px solid #545454;
 }
 h1 {
@@ -55,10 +58,10 @@ h1 {
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    @keyframes flow {
-        0% { background-position: 0 50%; }
-        50% { background-position: 100% 50%; }
-        100% { background position: 0 50%; }
-    }
+}
+@keyframes flow {
+    0% { background-position: 0 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background position: 0 50%; }
 }
 </style>
