@@ -47,10 +47,26 @@ a {
     background-color: #fff0;
 }
 .markdown-body h1 {
-    border-bottom: 1px solid #545454;
+    /* border-bottom: 1px solid #545454; */
+    border-bottom: 1px solid #ffffff00;
+    background-color: #131212;
+    padding-left: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 15px;
+    width: fit-content;
+    padding-right: 15px;
 }
 .markdown-body h2 {
-    border-bottom: 1px solid #545454;
+    /* border-bottom: 1px solid #545454; */
+    border-bottom: 1px solid #ffffff00;
+    background-color: #131212;
+    padding-left: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 15px;
+    width: fit-content;
+    padding-right: 15px;
 }
 .markdown-body a:not([href]) {
     color: unset;
