@@ -5,19 +5,19 @@ title-heading: false
 ---
 <img src="/assets/IAA.png" width="200" alt="iaa2005 logo" style="margin-left: auto; margin-right: auto; display: block; border-style: none; padding-top: 20px; padding-bottom: 20px;"/>
 
-# About me
+# 👦 About me
 - 👋 &nbsp;Привет! Я [@iaa2005](https://github.com/iaa2005/) - Иванов Александр.
 - 👀 &nbsp;Я интересуюсь программированием, GameDev, UI дизайном, созданием веб-сайтов и приложений на Flutter. Кроме того, я интересуюсь физикой и математикой.
 - 🌱 &nbsp;В настоящее время я изучаю Python 3, Rust, C++, JS и Go.
 - 📫 &nbsp;Как со мной связаться: [marsee3015@gmail.com](mailto:marsee3015@gmail.com), [Telegram @iaa2005](https://t.me/iaa2005) или [Twitter @iaa2005](https://twitter.com/iaa2005)
 
-# Физика
-## Ссылки
+# 🧬 Физика
+## 🔗 Ссылки
 - [Физтех Регионам](https://os.mipt.ru/#/)
 - [MathUs](https://mathus.ru/phys/index.php#var)
 - [Савченко 2008г.](https://iaa2005.tk/files/Savchenko_2008.pdf)<text class="pdf"> PDF</text>
 
-## Файлы
+## 🗃 Файлы
 - [Механика физтех](https://iaa2005.tk/files/Механика%20физтех.pdf)<text class="pdf"> PDF</text>
 - [Соскальзывание со сферы](https://iaa2005.tk/files/Соскальзывание%20со%20сферы.pdf)<text class="pdf"> PDF</text>
 - [Столкновения](https://iaa2005.tk/files/Столкновения.zip)<text class="zip"> ZIP</text>
