@@ -16,6 +16,7 @@ title-heading: false
 ## 🔗 Ссылки
 - [Физтех Регионам](https://os.mipt.ru/#/)<text class="url"> URL</text>
 - [MathUs](https://mathus.ru/phys/index.php#var)<text class="url"> URL</text>
+- [ФизМат Банк](https://fizmatbank.ru/)<text class="url"> URL</text>
 
 ## 📚 Книги
 - [Савченко 2008г.](https://iaa2005.tk/files/Savchenko_2008.pdf)<text class="pdf"> PDF</text>
