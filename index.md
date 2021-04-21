@@ -31,20 +31,6 @@ title-heading: false
 - [Физика в 10 класс (2)](https://iaa2005.tk/files/Физика%20в%2010%20класс%20(задачи).pdf)<text class="pdf"> PDF</text>
 - [Статика задачи с решением Губкин](https://iaa2005.tk/files/STATICS%20задачи%20с%20решением%20Губкин.pdf)<text class="pdf"> PDF</text>
 
-<input id="search" type="text" placeholder="Search..">
-
-<script type="text/javascript">
-function init() {
-    var lookfor = document.getElementById("search").value
-    var words = document.body.innerHTML.split(" ");
-    for(var i = 0; i < words.length; i++) {      
-        if(lookfor == words[i]) {
-            '<span class="highlight">' + words + '</span>'
-        }        
-    }
-}
-</script>
-
 <style> 
 body {
     background-color: #1c1c1c;
