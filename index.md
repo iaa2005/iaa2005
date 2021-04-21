@@ -13,8 +13,8 @@ title-heading: false
 
 # 🧬 Физика
 ## 🔗 Ссылки
-- [Физтех Регионам](https://os.mipt.ru/#/)
-- [MathUs](https://mathus.ru/phys/index.php#var)
+- [Физтех Регионам](https://os.mipt.ru/#/)<text class="url"> URL</text>
+- [MathUs](https://mathus.ru/phys/index.php#var)<text class="url"> URL</text>
 - [Савченко 2008г.](https://iaa2005.tk/files/Savchenko_2008.pdf)<text class="pdf"> PDF</text>
 
 ## 🗃 Файлы
@@ -30,6 +30,20 @@ title-heading: false
 - [Физика в 10 класс](https://iaa2005.tk/files/10%20-%20Физика.pdf)<text class="pdf"> PDF</text>
 - [Физика в 10 класс (2)](https://iaa2005.tk/files/Физика%20в%2010%20класс%20(задачи).pdf)<text class="pdf"> PDF</text>
 - [Статика задачи с решением Губкин](https://iaa2005.tk/files/STATICS%20задачи%20с%20решением%20Губкин.pdf)<text class="pdf"> PDF</text>
+
+<form id="frmSearch" class="search2" method="get" action="default.html" />
+<input class="search2" id="txtSearch" type="text" name="serach_bar" size="31" maxlength="255"       
+value="" style="left: 396px; top: 153px; width: 293px; height: 26px;" />
+<input class="search1" type="submit" name="submition" value="Search" style=" padding-  
+bottom:20px; left: 691px; top: 153px; height: 23px" />
+<input class="search2" type="hidden" name="sitesearch" value="default.html" />
+
+<script type="text/javascript">
+    document.getElementById('frmSearch').onsubmit = function() {
+        window.location = 'http://www.google.com/search?q=site:yoursitename.com ' + document.getElementById('txtSearch').value;
+        return false;
+    }
+</script>
 
 <style>
 body {
@@ -81,6 +95,12 @@ a {
 }
 .zip {
     color: #eac54b;
+    font-size: 12px;
+    margin-left: 2px;
+    opacity: 0.9;
+}
+.url {
+    color: #34ebab;
     font-size: 12px;
     margin-left: 2px;
     opacity: 0.9;
