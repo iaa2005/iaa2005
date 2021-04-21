@@ -3,7 +3,7 @@ title: iaa2005
 description: Official website of iaa2005
 title-heading: false
 ---
-<img src="/assets/IAA.png" width="200" alt="iaa2005 logo" style="margin-left: auto; margin-right: auto; display: block; border-style: none; padding-top: 20px; padding-bottom: 20px;"/>
+<img src="/assets/IAA.png" width="250" alt="iaa2005 logo" style="margin-left: auto; margin-right: auto; display: block; border-style: none; padding-top: 20px; padding-bottom: 20px;"/>
 
 # 👦 Обо мне
 - 👋 &nbsp;Привет! Я [@iaa2005](https://github.com/iaa2005/) - Иванов Александр.
