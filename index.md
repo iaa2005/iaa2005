@@ -31,20 +31,6 @@ title-heading: false
 - [Физика в 10 класс (2)](https://iaa2005.tk/files/Физика%20в%2010%20класс%20(задачи).pdf)<text class="pdf"> PDF</text>
 - [Статика задачи с решением Губкин](https://iaa2005.tk/files/STATICS%20задачи%20с%20решением%20Губкин.pdf)<text class="pdf"> PDF</text>
 
-<form id="frmSearch" class="search2" method="get" action="default.html" />
-<input class="search2" id="txtSearch" type="text" name="serach_bar" size="31" maxlength="255"       
-value="" style="left: 396px; top: 153px; width: 293px; height: 26px;" />
-<input class="search1" type="submit" name="submition" value="Search" style=" padding-  
-bottom:20px; left: 691px; top: 153px; height: 23px" />
-<input class="search2" type="hidden" name="sitesearch" value="default.html" />
-
-<script type="text/javascript">
-    document.getElementById('frmSearch').onsubmit = function() {
-        window.location = 'http://www.google.com/search?q=site:yoursitename.com ' + document.getElementById('txtSearch').value;
-        return false;
-    }
-</script>
-
 <style>
 body {
     background-color: #1c1c1c;
@@ -105,17 +91,4 @@ a {
     margin-left: 2px;
     opacity: 0.9;
 }
-/* h1, h2 {
-    animation: flow 10s ease-in-out infinite;
-    background: linear-gradient(90deg, #fff38a, #c3ff8a, #8affcc, #8ab3ff);
-    background-size: 300%;
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-@keyframes flow {
-    0% { background-position: 0 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background position: 0 50%; }
-} */
 </style>
