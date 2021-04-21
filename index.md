@@ -31,7 +31,7 @@ title-heading: false
 - [Физика в 10 класс (2)](https://iaa2005.tk/files/Физика%20в%2010%20класс%20(задачи).pdf)<text class="pdf"> PDF</text>
 - [Статика задачи с решением Губкин](https://iaa2005.tk/files/STATICS%20задачи%20с%20решением%20Губкин.pdf)<text class="pdf"> PDF</text>
 
-<input type="text" placeholder="Search..">
+<input id="search" type="text" placeholder="Search..">
 
 <script type="text/javascript">
 function init() {
