@@ -31,7 +31,7 @@ title-heading: false
 - [Физика в 10 класс (2)](https://iaa2005.tk/files/Физика%20в%2010%20класс%20(задачи).pdf)<text class="pdf"> PDF</text>
 - [Статика задачи с решением Губкин](https://iaa2005.tk/files/STATICS%20задачи%20с%20решением%20Губкин.pdf)<text class="pdf"> PDF</text>
 
-<div class="search-box"><input id="search" type="text" placeholder="Найти">
+<!-- <div class="search-box"><input id="search" type="text" placeholder="Найти">
 <button id="button-search" class="seach-button"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
 width="60" height="60"
 viewBox="0 0 172 172"
@@ -44,7 +44,7 @@ function find_text() {
 }
 var btn = document.getElementById("button-search");
 btn.addEventListener("click", find_text);
-</script>
+</script> -->
 <style> 
 body {
     background-color: #1c1c1c;
