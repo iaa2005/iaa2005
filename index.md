@@ -5,7 +5,7 @@ title-heading: false
 ---
 <img src="/assets/IAA.png" width="200" alt="iaa2005 logo" style="margin-left: auto; margin-right: auto; display: block; border-style: none; padding-top: 20px; padding-bottom: 20px;"/>
 
-# 👦 About me
+# 👦 Обо мне
 - 👋 &nbsp;Привет! Я [@iaa2005](https://github.com/iaa2005/) - Иванов Александр.
 - 👀 &nbsp;Я интересуюсь программированием, GameDev, UI дизайном, созданием веб-сайтов и приложений на Flutter. Кроме того, я интересуюсь физикой и математикой.
 - 🌱 &nbsp;В настоящее время я изучаю Python 3, Rust, C++ и JavaScript.
