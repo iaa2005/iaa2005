@@ -12,11 +12,15 @@ title-heading: false
 - 📫 &nbsp;Как со мной связаться: [marsee3015@gmail.com](mailto:marsee3015@gmail.com), [Telegram @iaa2005](https://t.me/iaa2005) или [Twitter @iaa2005](https://twitter.com/iaa2005)
 
 # 🧬 Физика
+
 ## 🔗 Ссылки
 - [Физтех Регионам](https://os.mipt.ru/#/)<text class="url"> URL</text>
 - [MathUs](https://mathus.ru/phys/index.php#var)<text class="url"> URL</text>
+
+## 📚 Книги
 - [Савченко 2008г.](https://iaa2005.tk/files/Savchenko_2008.pdf)<text class="pdf"> PDF</text>
 - [Русаков Механика Статика задачник](https://iaa2005.tk/files/Русаков_Механика_Статика_задачник.pdf)<text class="pdf"> PDF</text>
+- [Гельфгат 1001 задача по физике с решениями](https://iaa2005.tk/files/Gelfgat1001.pdf)<text class="pdf"> PDF</text>
 
 ## 🗃 Файлы
 - [Механика физтех](https://iaa2005.tk/files/Механика%20физтех.pdf)<text class="pdf"> PDF</text>
