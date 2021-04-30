@@ -16,12 +16,16 @@ title-heading: false
 ## 🔗 Ссылки
 - [Физтех Регионам](https://os.mipt.ru/#/)<text class="url"> URL</text>
 - [MathUs](https://mathus.ru/phys/index.php#var)<text class="url"> URL</text>
-- [ФизМат Банк](https://fizmatbank.ru/)<text class="url"> URL</text>
+- [ФизМат Банк](https://fizmatbank.ru)<text class="url"> URL</text>
+- [Журнал Квант](http://kvant.mccme.ru)<text class="url"> URL</text>
+- [Решебник EarthZ](https://earthz.ru)<text class="url"> URL</text>
+- [Олимпиадные задачи MathUs](https://mathus.ru/phys/index.php)<text class="url"> URL</text>
 
 ## 📚 Книги
 - [Савченко 2008г.](https://iaa2005.tk/files/Savchenko_2008.pdf)<text class="pdf"> PDF</text>
 - [Русаков Механика Статика задачник](https://iaa2005.tk/files/Русаков_Механика_Статика_задачник.pdf)<text class="pdf"> PDF</text>
 - [Гельфгат 1001 задача по физике с решениями](https://iaa2005.tk/files/Gelfgat1001.pdf)<text class="pdf"> PDF</text>
+- [MathUs - Электронный учебник по физике](https://mathus.ru/phys/book.pdf)<text class="pdf"> PDF</text>
 
 ## 🗃 Файлы
 - [Механика физтех](https://iaa2005.tk/files/Механика%20физтех.pdf)<text class="pdf"> PDF</text>
