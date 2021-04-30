@@ -13,33 +13,42 @@ title-heading: false
 
 # 🧬 Физика
 
-## 🔗 Ссылки
-- [Физтех Регионам](https://os.mipt.ru/#/)<text class="url"> URL</text>
-- [MathUs](https://mathus.ru/phys/index.php#var)<text class="url"> URL</text>
-- [ФизМат Банк](https://fizmatbank.ru)<text class="url"> URL</text>
-- [Журнал Квант](http://kvant.mccme.ru)<text class="url"> URL</text>
-- [Решебник EarthZ](https://earthz.ru)<text class="url"> URL</text>
-- [Олимпиадные задачи MathUs](https://mathus.ru/phys/index.php)<text class="url"> URL</text>
+<div class="physics">
+    <div class="h2-box">
+        ## 🔗 Ссылки
+        - [Физтех Регионам](https://os.mipt.ru/#/)<text class="url"> URL</text>
+        - [MathUs](https://mathus.ru/phys/index.php#var)<text class="url"> URL</text>
+        - [ФизМат Банк](https://fizmatbank.ru)<text class="url"> URL</text>
+        - [Журнал Квант](http://kvant.mccme.ru)<text class="url"> URL</text>
+        - [Решебник EarthZ](https://earthz.ru)<text class="url"> URL</text>
+        - [Олимпиадные задачи MathUs](https://mathus.ru/phys/index.php)<text class="url"> URL</text>
+    </div>
 
-## 📚 Книги
-- [Савченко 2008г.](https://iaa2005.tk/files/Savchenko_2008.pdf)<text class="pdf"> PDF</text>
-- [Русаков Механика Статика задачник](https://iaa2005.tk/files/Русаков_Механика_Статика_задачник.pdf)<text class="pdf"> PDF</text>
-- [Гельфгат 1001 задача по физике с решениями](https://iaa2005.tk/files/Gelfgat1001.pdf)<text class="pdf"> PDF</text>
-- [MathUs - Электронный учебник по физике](https://mathus.ru/phys/book.pdf)<text class="pdf"> PDF</text>
+    <div class="h2-box">
+        ## 📚 Книги
+        - [Савченко 2008г.](https://iaa2005.tk/files/Savchenko_2008.pdf)<text class="pdf"> PDF</text>
+        - [Русаков Механика Статика задачник](https://iaa2005.tk/files/Русаков_Механика_Статика_задачник.pdf)<text class="pdf"> PDF</text>
+        - [Гельфгат 1001 задача по физике с решениями](https://iaa2005.tk/files/Gelfgat1001.pdf)<text class="pdf"> PDF</text>
+        - [MathUs - Электронный учебник по физике](https://mathus.ru/phys/book.pdf)<text class="pdf"> PDF</text>
+    </div>
 
-## 🗃 Файлы
-- [Механика физтех](https://iaa2005.tk/files/Механика%20физтех.pdf)<text class="pdf"> PDF</text>
-- [Соскальзывание со сферы](https://iaa2005.tk/files/Соскальзывание%20со%20сферы.pdf)<text class="pdf"> PDF</text>
-- [Столкновения](https://iaa2005.tk/files/Столкновения.zip)<text class="zip"> ZIP</text>
-- [Трение, импульс](https://iaa2005.tk/files/Трение%20импульс.pdf)<text class="pdf"> PDF</text>
-- [Удары](https://iaa2005.tk/files/Удары.pdf)<text class="pdf"> PDF</text>
-- [Удары 2](https://iaa2005.tk/files/Удары%20еще.pdf)<text class="pdf"> PDF</text>
-- [Фтл 2021 04.02.21](https://iaa2005.tk/files/Фтл-2021-04.02.21.pdf)<text class="pdf"> PDF</text>
-- [Фтл 2021 05.02.21 (1)](https://iaa2005.tk/files/Фтл-2021-05.02.21.pdf)<text class="pdf"> PDF</text>
-- [Фтл 2021 05.02.21 (2)](https://iaa2005.tk/files/Фтл-2021-05.02.21-2.pdf)<text class="pdf"> PDF</text>
-- [Физика в 10 класс](https://iaa2005.tk/files/10%20-%20Физика.pdf)<text class="pdf"> PDF</text>
-- [Физика в 10 класс (2)](https://iaa2005.tk/files/Физика%20в%2010%20класс%20(задачи).pdf)<text class="pdf"> PDF</text>
-- [Статика задачи с решением Губкин](https://iaa2005.tk/files/STATICS%20задачи%20с%20решением%20Губкин.pdf)<text class="pdf"> PDF</text>
+    <div class="h2-box">
+        ## 🗃 Файлы
+        - [Механика физтех](https://iaa2005.tk/files/Механика%20физтех.pdf)<text class="pdf"> PDF</text>
+        - [Соскальзывание со сферы](https://iaa2005.tk/files/Соскальзывание%20со%20сферы.pdf)<text class="pdf"> PDF</text>
+        - [Столкновения](https://iaa2005.tk/files/Столкновения.zip)<text class="zip"> ZIP</text>
+        - [Трение, импульс](https://iaa2005.tk/files/Трение%20импульс.pdf)<text class="pdf"> PDF</text>
+        - [Удары](https://iaa2005.tk/files/Удары.pdf)<text class="pdf"> PDF</text>
+        - [Удары 2](https://iaa2005.tk/files/Удары%20еще.pdf)<text class="pdf"> PDF</text>
+        - [Фтл 2021 04.02.21](https://iaa2005.tk/files/Фтл-2021-04.02.21.pdf)<text class="pdf"> PDF</text>
+        - [Фтл 2021 05.02.21 (1)](https://iaa2005.tk/files/Фтл-2021-05.02.21.pdf)<text class="pdf"> PDF</text>
+        - [Фтл 2021 05.02.21 (2)](https://iaa2005.tk/files/Фтл-2021-05.02.21-2.pdf)<text class="pdf"> PDF</text>
+        - [Физика в 10 класс](https://iaa2005.tk/files/10%20-%20Физика.pdf)<text class="pdf"> PDF</text>
+        - [Физика в 10 класс (2)](https://iaa2005.tk/files/Физика%20в%2010%20класс%20(задачи).pdf)<text class="pdf"> PDF</text>
+        - [Статика задачи с решением Губкин](https://iaa2005.tk/files/STATICS%20задачи%20с%20решением%20Губкин.pdf)<text class="pdf"> PDF</text>
+    </div>
+</div>
+
 
 <style> 
 body {
@@ -100,5 +109,8 @@ a {
     font-size: 12px;
     margin-left: 2px;
     opacity: 0.9;
+}
+.physics {
+    display: grid-flex;
 }
 </style>
