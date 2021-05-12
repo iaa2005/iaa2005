@@ -44,7 +44,7 @@ title-heading: false
 ## 💯 КР и материалы для подготовки
 - [Герой нашего времени Лермонтов КР](https://iaa2005.tk/files/Герой%20нашего%20времени%20Лермонтов%20КР.zip)<text class="zip"> ZIP</text>
 
-[<img alt="Github Logo" src="/assets/GitHub_Logo_White.png" width=150"/>](https://github.com/iaa2005/iaa2005)
+<img alt="Github Logo" src="/assets/GitHub_Logo_White.png" width=150"/>
 
 <style>
 body {
