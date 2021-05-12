@@ -41,8 +41,11 @@ title-heading: false
 - [Физика в 10 класс (2)](https://iaa2005.tk/files/Физика%20в%2010%20класс%20(задачи).pdf)<text class="pdf"> PDF</text>
 - [Статика задачи с решением Губкин](https://iaa2005.tk/files/STATICS%20задачи%20с%20решением%20Губкин.pdf)<text class="pdf"> PDF</text>
 
+<a href="https://github.com/iaa2005/iaa2005">
+<img alt="Github Logo" src="/assets/GitHub_Logo_White.png" width=150">
+</a>
 
-<style> 
+<style>
 body {
     background-color: #1c1c1c;
 }
