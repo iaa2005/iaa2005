@@ -41,10 +41,10 @@ title-heading: false
 - [Физика в 10 класс (2)](https://iaa2005.tk/files/Физика%20в%2010%20класс%20(задачи).pdf)<text class="pdf"> PDF</text>
 - [Статика задачи с решением Губкин](https://iaa2005.tk/files/STATICS%20задачи%20с%20решением%20Губкин.pdf)<text class="pdf"> PDF</text>
 
-## Контрольные работы и материалы для подготовки
-<a href="https://github.com/iaa2005/iaa2005">
-<img alt="Github Logo" src="/assets/GitHub_Logo_White.png" width=150"/>
-</a>
+## 💯 КР и материалы для подготовки
+- [Герой нашего времени Лермонтов КР](https://iaa2005.tk/files/Герой%20нашего%20времени%20Лермонтов%20КР.zip)<text class="zip"> ZIP</text>
+
+[<img alt="Github Logo" src="/assets/GitHub_Logo_White.png" width=150"/>](https://github.com/iaa2005/iaa2005)
 
 <style>
 body {
