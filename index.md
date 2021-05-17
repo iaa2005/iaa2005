@@ -3,6 +3,11 @@ title: iaa2005
 description: Official website of iaa2005
 title-heading: false
 ---
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/apple-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/apple-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/apple-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/apple-icon-144x144.png" />
+
 <img src="/assets/IAA.png" width="250" alt="iaa2005 logo" style="margin-left: auto; margin-right: auto; display: block; border-style: none; padding-top: 20px; padding-bottom: 20px;"/>
 
 # 👦 Обо мне
