@@ -46,6 +46,40 @@ title-heading: false
 - [Физика в 10 класс (2)](https://iaa2005.tk/files/Физика%20в%2010%20класс%20(задачи).pdf)<text class="pdf"> PDF</text>
 - [Статика задачи с решением Губкин](https://iaa2005.tk/files/STATICS%20задачи%20с%20решением%20Губкин.pdf)<text class="pdf"> PDF</text>
 
+# Programming
+
+## Package managers
+- [npm.js](https://www.npmjs.com) - JS Libraries
+- [vcpkg](https://vcpkg.io/en) - C++ Libraries for MS Visual Studio and MacOS CMake
+- [Hugging Face](https://huggingface.co) - AI Libraries for Python
+- [PyPI](https://pypi.org) - Python Package Index
+
+## Frameworks for packaging libraries and assets
+- [Webpack](https://webpack.js.org) - a static module bundler for modern JavaScript applications
+- [A Simple Way to Use NPM Library in Browser](https://bartsolutions.github.io/2019/12/27/use-npm-in-browser-js/)
+- [Browserify](https://browserify.org) - library for this ^
+
+## IDEs
+- [Jetbrains](https://www.jetbrains.com)
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Material Icon Theme (for VS Code)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Jupyter (for VS Code)](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+
+## Repository Managers
+- [GitHub](https://github.com)
+- [GitLab](https://about.gitlab.com)
+- [BitBucket](https://bitbucket.org)
+
+## Some Hacks
+- [Jetbrains Activator](https://www.youtube.com/watch?v=1toA21yAWjs) - Youtube video
+
+## Some Additional tools
+- [Chemequastions](https://chemequations.com)
+- [Blockchair](http://blockchair.com)
+- [Etherscan](http://blockchair.com)
+- [Ethereum official website](https://ethereum.org)
+- [Electrum bitcoin wallet](https://electrum.org)
+
 <style>
 body {
     background-color: #1c1c1c;
