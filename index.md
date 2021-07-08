@@ -74,7 +74,7 @@ title-heading: false
 - [Jetbrains Activator](https://www.youtube.com/watch?v=1toA21yAWjs) - Youtube video
 
 ## Some Additional tools
-- [Chemequastions](https://chemequations.com)
+- [Chemequations](https://chemequations.com)
 - [Blockchair](http://blockchair.com)
 - [Etherscan](http://blockchair.com)
 - [Ethereum official website](https://ethereum.org)
