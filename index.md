@@ -72,6 +72,7 @@ title-heading: false
 
 ## Some Hacks
 - [Jetbrains Activator](https://www.youtube.com/watch?v=1toA21yAWjs) - Youtube video
+- [Appstorrent](https://www.appstorrent.ru) - Free apps for macOS: Adobe etc.
 
 ## Some Additional tools
 - [Chemequations](https://chemequations.com)
