@@ -49,15 +49,19 @@ title-heading: false
 # 👨‍💻 Programming
 
 ## Package managers
-- [npm.js](https://www.npmjs.com) - JS Libraries
-- [vcpkg](https://vcpkg.io/en) - C++ Libraries for MS Visual Studio and MacOS CMake
-- [Hugging Face](https://huggingface.co) - AI Libraries for Python
+- [npm.js](https://www.npmjs.com) - JS libraries
+- [vcpkg](https://vcpkg.io/en) - C++ libraries for MS Visual Studio and MacOS CMake
+- [Hugging Face](https://huggingface.co) - AI libraries for Python
 - [PyPI](https://pypi.org) - Python Package Index
 
 ## Frameworks for packaging libraries and assets
 - [Webpack](https://webpack.js.org) - a static module bundler for modern JavaScript applications
 - [A Simple Way to Use NPM Library in Browser](https://bartsolutions.github.io/2019/12/27/use-npm-in-browser-js/)
 - [Browserify](https://browserify.org) - library for this ^
+
+## AI
+- [Hugging Face](https://huggingface.co) - AI libraries for Python
+- [MediaPipe](https://google.github.io/mediapipe/) - AI library for hands/face/body/objects recognition
 
 ## IDEs
 - [Jetbrains](https://www.jetbrains.com)
