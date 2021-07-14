@@ -8,6 +8,4 @@
 ## Official website
 [iaa2005.tk](https://iaa2005.tk) and about @iaa2005 - [iaa.iaa2005.tk](https://iaa.iaa2005.tk)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaa2005&show_icons=true&theme=vue)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaa2005&repo=iaa)](https://github.com/anuraghazra/github-readme-stats)
+![iaa2005's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaa2005&show_icons=true&theme=vue)
