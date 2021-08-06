@@ -16,6 +16,9 @@ title-heading: false
 - 🌱 &nbsp;В настоящее время я изучаю Python 3, Rust, C++ и JavaScript.
 - 📫 &nbsp;Как со мной связаться: [marsee3015@gmail.com](mailto:marsee3015@gmail.com), [Telegram @iaa2005](https://t.me/iaa2005) или [Twitter @iaa2005](https://twitter.com/iaa2005)
 
+# Rust
+- Игровой движок Amethyst [(Перевод)](https://smallnibbler.github.io/amethyst-book-ru/)
+
 # 🧬 Физика
 
 ## 🔗 Ссылки
