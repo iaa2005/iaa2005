@@ -20,6 +20,11 @@ title-heading: false
 - [Amethyst Engine](https://amethyst.rs)
 - Игровой движок Amethyst [(Перевод)](https://smallnibbler.github.io/amethyst-book-ru/)
 
+# JavaScript
+- [Three.js](https://threejs.org) - 3D Library and Game engine.
+- [Cannon.js](https://schteppe.github.io/cannon.js/) - A lightweight and simple 3D physics engine for the web.
+- Some projects for creating games: [1 Video](https://www.youtube.com/watch?v=hBiGFpBle7E), [2 Video](https://www.youtube.com/watch?v=JhgBwJn1bQw&t=3109s)
+
 # 🧬 Физика
 
 ## 🔗 Ссылки
