@@ -14,7 +14,7 @@
 - Otherscience — [otherscience.xyz](https://otherscience.xyz)
 - Yuamble Blockchain — [yuamble.tk](https://yuamble.tk)
 
-![iaa2005's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaa2005&show_icons=true&theme=vue)
+<!-- ![iaa2005's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaa2005&show_icons=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaa2005&layout=compact)](https://github.com/iaa2005/iaa2005)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaa2005&layout=compact)](https://github.com/iaa2005/iaa2005) -->
 
