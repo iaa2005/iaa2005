@@ -12,5 +12,6 @@
 - @iaa2005 — [iaa2005.tk](https://iaa2005.tk)
 - FizCoin — [fizcoin.xyz](https://fizcoin.xyz)
 - Otherscience — [otherscience.xyz](https://otherscience.xyz)
+- Yuamble Blockchain — [yuamble.tk](https://yuamble.tk)
 
 ![iaa2005's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaa2005&show_icons=true&theme=vue)
