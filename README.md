@@ -1,6 +1,6 @@
 # About IAA Labs
 - 👋 &nbsp;Hi, I’m @iaa2005 - Ivanov Alexandr
-- 🚀 &nbsp;I’m interested in: NFT Dev, Solidity Contract Dev, LaTeX, GameDev, UI Design, Creating Websites and Apps on Flutter
+- 🚀 &nbsp;I’m interested in: NFT, Solidity Contract and Web3 Developer; LaTeX, GameDev, UI Design, and also Creating Websites and Apps on Flutter
 - 🌱 &nbsp;I’m currently learning Python 3, Rust, C++, JS and Go
 - 📫 &nbsp;How to reach me: marsee3015@gmail.com
 
