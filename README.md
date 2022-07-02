@@ -10,6 +10,7 @@
 # My Projects
 - Fizmat.ga — [fizmat.ga](https://fizmat.ga)
 - @iaa2005 — [iaa2005.tk](https://iaa2005.tk)
+- @iaa2005's blog — [blog.iaa2005.tk](https://blog.iaa2005.tk)
 - FizCoin — [fizcoin.xyz](https://fizcoin.xyz)
 - Otherscience — [otherscience.xyz](https://otherscience.xyz)
 - Yuamble Blockchain — [yuamble.tk](https://yuamble.tk)
