@@ -9,6 +9,7 @@
 <!-- [iaa2005.tk](https://iaa2005.tk) and about @iaa2005 - [iaa.iaa2005.tk](https://iaa.iaa2005.tk) -->
 # My Projects
 - Fizmat.ga — [fizmat.ga](https://fizmat.ga)
+- Planet Searcher - [planetsearcher.tk](https://planetsearcher.tk)
 - @iaa2005 — [iaa2005.tk](https://iaa2005.tk)
 - @iaa2005's blog — [blog.iaa2005.tk](https://blog.iaa2005.tk)
 - FizCoin — [fizcoin.xyz](https://fizcoin.xyz)
