@@ -1,3 +1,5 @@
+<img src="https://iaa2005.tk/images/iaa-labs-logo.svg" width="300px">
+
 # About IAA Labs
 - 👋 &nbsp;Hi, I’m @iaa2005 - Ivanov Alexandr
 - 🔭 &nbsp;I’m a founder of educational website Fizmat.ga ([fizmat.ga](https://fizmat.ga))
