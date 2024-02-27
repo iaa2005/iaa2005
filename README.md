@@ -1,4 +1,4 @@
-<img src="https://iaa2005.tk/images/iaa-labs-logo-color.svg" width="300px">
+<img src="https://raw.githubusercontent.com/iaa2005/iaa-labs-new/main/images/iaa-labs-logo-color.svg" width="300px">
 
 # About IAA Labs
 - 👋 &nbsp;Hi, I’m @iaa2005 - Ivanov Alexandr
