@@ -12,12 +12,12 @@
 <!-- [iaa2005.tk](https://iaa2005.tk) and about @iaa2005 - [iaa.iaa2005.tk](https://iaa.iaa2005.tk) -->
 # My Projects
 - Fizmat.space — [fizmat.space](https://fizmat.space) (Done)
-- Planet Searcher - [planetsearcher.tk](https://planetsearcher.tk) (Done)
+<!-- - Planet Searcher - [planetsearcher.tk](https://planetsearcher.tk) (Done)
 - @iaa2005 — [iaa2005.tk](https://iaa2005.tk) (Done)
 - @iaa2005's blog — [blog.iaa2005.tk](https://blog.iaa2005.tk)
 - FizCoin — [fizcoin.xyz](https://fizcoin.xyz)
 - Otherscience — [otherscience.xyz](https://otherscience.xyz)
-- Yuamble Blockchain — [yuamble.tk](https://yuamble.tk)
+- Yuamble Blockchain — [yuamble.tk](https://yuamble.tk) -->
 
 <!-- ![iaa2005's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaa2005&show_icons=true&theme=vue)
 
